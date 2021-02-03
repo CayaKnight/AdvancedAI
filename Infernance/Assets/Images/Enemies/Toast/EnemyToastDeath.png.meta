@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 3a4731e4b249a0449b5ee8f4f9bacfc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7750391302447002348
+    second: EnemyToastDeath_0
+  - first:
+      213: 2050643201346902481
+    second: EnemyToastDeath_1
+  - first:
+      213: -4984502488671621082
+    second: EnemyToastDeath_2
+  - first:
+      213: 5148969184979187309
+    second: EnemyToastDeath_3
+  - first:
+      213: 2588598468808062329
+    second: EnemyToastDeath_4
+  - first:
+      213: 3631558015937196346
+    second: EnemyToastDeath_5
+  - first:
+      213: -4373318321105609623
+    second: EnemyToastDeath_6
+  - first:
+      213: -7001966658548082845
+    second: EnemyToastDeath_7
+  - first:
+      213: -2692242612607689767
+    second: EnemyToastDeath_8
+  - first:
+      213: 8016130534303897697
+    second: EnemyToastDeath_9
+  - first:
+      213: -4923752694661845362
+    second: EnemyToastDeath_10
+  - first:
+      213: -2747983320104420149
+    second: EnemyToastDeath_11
+  - first:
+      213: -7365849514550454147
+    second: EnemyToastDeath_12
+  - first:
+      213: 6177723233658787179
+    second: EnemyToastDeath_13
+  - first:
+      213: -1790978612553034303
+    second: EnemyToastDeath_14
+  - first:
+      213: -1058896040790201733
+    second: EnemyToastDeath_15
+  - first:
+      213: -5539154899150224381
+    second: EnemyToastDeath_16
+  - first:
+      213: -4874442859255091758
+    second: EnemyToastDeath_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyToastDeath_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 846
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8e5b7c24117490800000000000000
+      internalID: -7750391302447002348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 888
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91a597029557c10800000000000000
+      internalID: 2050643201346902481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 778
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207da4456d73dab0800000000000000
+      internalID: -4984502488671621082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_3
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 0
+        width: 794
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fd1e7130d47740800000000000000
+      internalID: 5148969184979187309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_4
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 0
+        width: 846
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975bc67a79c8ce320800000000000000
+      internalID: 2588598468808062329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_5
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 0
+        width: 691
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31b82156c2e56230800000000000000
+      internalID: 3631558015937196346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_6
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 0
+        width: 880
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cdac4682ade43c0800000000000000
+      internalID: -4373318321105609623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_7
+      rect:
+        serializedVersion: 2
+        x: 7028
+        y: 0
+        width: 863
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367dc1c0c6404de90800000000000000
+      internalID: -7001966658548082845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_8
+      rect:
+        serializedVersion: 2
+        x: 8002
+        y: 0
+        width: 854
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5952ab9b33aad0800000000000000
+      internalID: -2692242612607689767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_9
+      rect:
+        serializedVersion: 2
+        x: 8974
+        y: 0
+        width: 897
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168985aef340f3f60800000000000000
+      internalID: 8016130534303897697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_10
+      rect:
+        serializedVersion: 2
+        x: 10008
+        y: 0
+        width: 990
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eeec8e2015babb0800000000000000
+      internalID: -4923752694661845362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_11
+      rect:
+        serializedVersion: 2
+        x: 11067
+        y: 0
+        width: 879
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3a74dab33dd9d0800000000000000
+      internalID: -2747983320104420149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_12
+      rect:
+        serializedVersion: 2
+        x: 11971
+        y: 0
+        width: 999
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789c3874ee37c990800000000000000
+      internalID: -7365849514550454147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_13
+      rect:
+        serializedVersion: 2
+        x: 12962
+        y: 0
+        width: 1016
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d8eecc8eabb550800000000000000
+      internalID: 6177723233658787179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_14
+      rect:
+        serializedVersion: 2
+        x: 13988
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5547ed07a2527e0800000000000000
+      internalID: -1790978612553034303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_15
+      rect:
+        serializedVersion: 2
+        x: 14987
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ae1a249ab0e41f0800000000000000
+      internalID: -1058896040790201733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_16
+      rect:
+        serializedVersion: 2
+        x: 15977
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304494887f7f023b0800000000000000
+      internalID: -5539154899150224381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyToastDeath_17
+      rect:
+        serializedVersion: 2
+        x: 16993
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2920ab008a5cb0800000000000000
+      internalID: -4874442859255091758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+C:\Users\skell\OneDrive\Documents\CK. Intro to Game Dev\Infernance\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\skell\OneDrive\Documents\CK. Intro to Game Dev\Infernance\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
